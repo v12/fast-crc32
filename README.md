@@ -1,4 +1,4 @@
-# fast-crc32 [![Build status](https://travis-ci.org/v12/fast-crc32.svg?branch=master)]() [![npm version](https://img.shields.io/npm/v/fast-crc32.svg)]()
+# fast-crc32 [![Build status](https://travis-ci.org/v12/fast-crc32.svg?branch=master)](https://travis-ci.org/v12/fast-crc32) [![npm version](https://img.shields.io/npm/v/fast-crc32.svg)](https://www.npmjs.com/package/fast-crc32) [![Dependency Status](https://david-dm.org/v12/fast-crc32.svg)](https://david-dm.org/v12/fast-crc32)
 
 ## Installation
 ```sh
