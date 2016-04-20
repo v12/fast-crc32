@@ -1,6 +1,6 @@
 {
   "name": "fast-crc32",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convenience methods to use sse4_crc32 module",
   "main": "index.js",
   "scripts": {
