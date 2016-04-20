@@ -33,6 +33,6 @@
     "mocha": "^2.4.2"
   },
   "dependencies": {
-    "sse4_crc32": "^4.1.1"
+    "sse4_crc32": "^5.0.0"
   }
 }
