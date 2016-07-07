@@ -30,7 +30,7 @@
     "chai": "^3.4.1",
     "chai-as-promised": "^5.2.0",
     "eslint": "^3.0.1",
-    "mocha": "^2.4.2"
+    "mocha": "^2.5.0"
   },
   "dependencies": {
     "sse4_crc32": "^5.0.0"
